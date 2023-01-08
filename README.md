@@ -17,11 +17,16 @@ You need to know:
 - How to use coroutines for long-running tasks.
 - Familiarity with lazy grid
 
-Getting Started
----------------
+Finished this App
+-----------------
 
-1. [Install Android Studio](https://developer.android.com/studio/install.html), if you don't already
-   have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+## Required Features
+
+The following **required** functionality is completed:
+
+* [ ] Connect to the Internet
+* [ ] Get data from the Internet
+* [ ] Add ViewModel
+* [ ] Add repository and Manual Dependency Injection
+* [ ] Load and display images from the internet
+
