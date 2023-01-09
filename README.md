@@ -17,6 +17,17 @@ You need to know:
 - How to use coroutines for long-running tasks.
 - Familiarity with lazy grid
 
-Getting Started
----------------
+Finished this App
+-----------------
+
+## Required Features
+
+The following **required** functionality is completed:
+
+* [ ] Connect to the Internet
+* [ ] Get data from the Internet
+* [ ] Add ViewModel
+* [ ] Add repository and Manual Dependency Injection
+* [ ] Load and display images from the internet
+
 
